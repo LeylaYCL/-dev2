@@ -1,0 +1,67 @@
+body {
+    margin: auto;
+    
+}
+
+div {
+	text-align: center;
+}
+
+#ustKatman {
+	background-color: lightgray;
+    margin: auto;
+    width: 800px;
+    height: 100px;
+}
+
+
+
+#solKatman {
+	display:inline-block; vertical-align:top;
+	font-weight: bold;
+	background-color:aquamarine;
+	height: 200px;
+	width: 280px;
+	margin-right: 5px;
+	margin-left: 348px;
+	padding: 5px;
+	
+}
+
+
+
+#ortaKatman {
+	display:inline-block; vertical-align:top;
+	background-color:aqua;
+	height: 200px;
+	width: 200px;
+	padding: 5px;
+	
+}
+#sagKatman {
+	display:inline-block; vertical-align:top;
+	background-color:darkturquoise;
+	height: 200px;
+	width: 280px;
+	margin-left: 5px;
+	padding: 5px;
+	
+	
+}
+
+h2 {
+	text-align: center;
+	
+}
+
+form {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
